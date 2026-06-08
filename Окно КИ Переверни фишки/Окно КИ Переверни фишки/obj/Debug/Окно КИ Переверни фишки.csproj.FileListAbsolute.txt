@@ -1,0 +1,10 @@
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\bin\Debug\Окно КИ Переверни фишки.exe.config
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\bin\Debug\Окно КИ Переверни фишки.exe
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\bin\Debug\Окно КИ Переверни фишки.pdb
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно КИ Переверни фишки.csproj.AssemblyReference.cache
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно_КИ_Переверни_фишки.Form1.resources
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно_КИ_Переверни_фишки.Properties.Resources.resources
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно КИ Переверни фишки.csproj.GenerateResource.cache
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно КИ Переверни фишки.csproj.CoreCompileInputs.cache
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно КИ Переверни фишки.exe
+C:\Users\zkabl\OneDrive\Desktop\ТРПО\Курсовая работа\Окно КИ Переверни фишки\Окно КИ Переверни фишки\obj\Debug\Окно КИ Переверни фишки.pdb
